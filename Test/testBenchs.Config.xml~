@@ -1,0 +1,19 @@
+<!DOCTYPE ConfigFile>
+<testConfig>
+    <author/>
+    <creationDate/>
+    <testFilesFolder/>
+    <extensions>
+        <input/>
+        <expectedOutput/>
+        <description/>
+    </extensions>
+    <arguments>
+        <help/>
+        <verboseMode/>
+        <updatePossible/>
+        <addMode/>
+        <devMode/>
+    </arguments>
+    <subTests/>
+</testConfig>
